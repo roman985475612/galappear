@@ -1,0 +1,13 @@
+.section-main {
+
+    .card-content {
+        color: $primary-color;
+    }
+
+    .row-1,
+    .row-2,
+    .row-3 {
+        opacity: 0;
+        // display: none;
+    }
+}

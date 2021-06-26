@@ -1,0 +1,14 @@
+// Header
+$header-bg: url('../img/pattern.webp');
+$header-height: 500px;
+
+// Color
+$primary-color: #00796b; // teal darken-2
+$primary-color-light: light($primary-color, 15%);  
+$primary-color-dark: darken($primary-color, 15%); 
+
+$secondary-color: #212121; // grey darken-4
+$secondary-color-light: #424242; // grey darken-3
+
+$sidenav-font-color: rgba(255, 255, 255, .87);
+$sidenav-bg-color: $secondary-color;
